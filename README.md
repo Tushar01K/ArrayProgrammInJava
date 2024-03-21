@@ -1,1 +1,2 @@
-# ArrayProgrammInJava
+# ArrayProgrammInJava:-
+This repository contains a Java program for array manipulation, featuring sorting, searching, and basic element operations. With implementations of sorting algorithms like bubble sort and selection sort, as well as search algorithms such as linear and binary search, users can effectively manipulate arrays. The modular structure allows for easy extension and modification, ensuring flexibility and maintainability. To use the program, simply clone the repository, compile the Java files, and execute the main program.
